@@ -1,0 +1,11 @@
+v 4
+file . "upCountertest.vhdl" "cd6b09a0c2fa0f183427a470104c6f382a07e672" "20240213095103.027":
+  entity up_counter_tb at 1( 0) + 0 on 33;
+  architecture tb_arch of up_counter_tb at 7( 88) + 0 on 34;
+file . "upCounter.vhdl" "a0cba358fc2e23628e7a53f22bbc31373d55bac0" "20240213095102.985":
+  entity tff at 1( 0) + 0 on 27;
+  architecture tff_arch of tff at 9( 138) + 0 on 28;
+  entity and_gate at 28( 539) + 0 on 29;
+  architecture and_gate_arch of and_gate at 36( 680) + 0 on 30;
+  entity up_counter at 42( 767) + 0 on 31;
+  architecture up_counter_arch of up_counter at 50( 935) + 0 on 32;

@@ -1,0 +1,85 @@
+$date
+  Fri Feb 16 17:35:07 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module decoder_tb $end
+$var reg 1 ! input_a1 $end
+$var reg 1 " input_a0 $end
+$var reg 1 # enable $end
+$var reg 1 $ output_y3 $end
+$var reg 1 % output_y2 $end
+$var reg 1 & output_y1 $end
+$var reg 1 ' output_y0 $end
+$scope module uut $end
+$var reg 1 ( input_a1 $end
+$var reg 1 ) input_a0 $end
+$var reg 1 * enable $end
+$var reg 1 + output_y3 $end
+$var reg 1 , output_y2 $end
+$var reg 1 - output_y1 $end
+$var reg 1 . output_y0 $end
+$var reg 1 / y3_temp $end
+$var reg 1 0 y2_temp $end
+$var reg 1 1 y1_temp $end
+$var reg 1 2 y0_temp $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+1#
+0$
+0%
+0&
+1'
+0(
+0)
+1*
+0+
+0,
+0-
+1.
+0/
+00
+01
+12
+#10000000
+1"
+1&
+0'
+1)
+1-
+0.
+11
+02
+#20000000
+1!
+0"
+1%
+0&
+1(
+0)
+1,
+0-
+10
+01
+#30000000
+1"
+1$
+0%
+1)
+1+
+0,
+1/
+00
+#40000000
