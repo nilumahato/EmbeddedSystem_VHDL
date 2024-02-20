@@ -1,0 +1,87 @@
+$date
+  Sun Feb 11 00:48:38 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module onetoeight_tb $end
+$var reg 1 ! a $end
+$var reg 1 " s2 $end
+$var reg 1 # s1 $end
+$var reg 1 $ s0 $end
+$var reg 8 % output_signal[7:0] $end
+$scope module uut $end
+$var reg 1 & a $end
+$var reg 1 ' s0 $end
+$var reg 1 ( s1 $end
+$var reg 1 ) s2 $end
+$var reg 8 * y[7:0] $end
+$var reg 3 + select_signals[2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+b00000000 %
+0&
+0'
+0(
+0)
+b00000000 *
+b000 +
+#300000000
+1!
+1&
+#600000000
+1$
+b01000000 %
+1'
+b01000000 *
+b001 +
+#900000000
+1#
+0$
+b00100000 %
+0'
+1(
+b00100000 *
+b010 +
+#1200000000
+1$
+b00010000 %
+1'
+b00010000 *
+b011 +
+#1500000000
+1"
+0#
+0$
+b00001000 %
+0'
+0(
+1)
+b00001000 *
+b100 +
+#1800000000
+1$
+b00000100 %
+1'
+b00000100 *
+b101 +
+#2100000000
+1#
+b00000001 %
+1(
+b00000001 *
+b111 +
+#2400000000

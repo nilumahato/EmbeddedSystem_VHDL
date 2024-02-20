@@ -1,7 +1,0 @@
-v 4
-file . "muxtest.vhdl" "5077dabac3795454b18b3ba65a062f5fce16182f" "20240213095928.009":
-  entity multiplexer_tb at 1( 0) + 0 on 13;
-  architecture tb_architecture of multiplexer_tb at 7( 90) + 0 on 14;
-file . "2to1mux.vhdl" "aa3d6bcad470192b937d84aa4cc11ab99f5dd719" "20240213095927.992":
-  entity multiplexer at 1( 0) + 0 on 11;
-  architecture mux_arch of mux at 11( 182) + 0 on 12;

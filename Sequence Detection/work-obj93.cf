@@ -1,0 +1,7 @@
+v 4
+file . "detector_tb.vhdl" "e07c62f417ef19692914c50c64c30f195cf74aa5" "20240210203401.265":
+  entity sd_tb at 1( 0) + 0 on 13;
+  architecture seq_arch of sd_tb at 7( 74) + 0 on 14;
+file . "detector.vhdl" "9942f519cc2cb525218c8134ce99b27851d83d6f" "20240210203401.253":
+  entity sequence at 1( 0) + 0 on 11;
+  architecture seq_arch of sequence at 13( 176) + 0 on 12;
