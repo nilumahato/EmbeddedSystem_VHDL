@@ -28,9 +28,9 @@ The onetoeight_tb includes various test cases to verify the behavior of the 1 to
  3. (*Add more test cases as needed*)
 
 ### Circuit Diagram
- ![Circuit Diagram of decoder](/1%20to%208%20Decoder/1to8.png)
+ ![Circuit Diagram of decoder](/1%20to%208%20Demux/1to8.png)
  
 ### Simulation Duration
  Each test case is simulated for a duration to allow  sufficient time for the computation to finish and the result to stabilize.
 
- ![Simulation of mux](/1%20to%208%20Decoder/Image_onetoeight.png)
+ ![Simulation of mux](/1%20to%208%20Demux/Image_onetoeight.png)
